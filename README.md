@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Only dart files are pushed to git.
+
+Note: Create new folder with path 'assets/images' to store image files
+      Update 'pubspecs.yaml' file assets property and add your images path to work with images.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
